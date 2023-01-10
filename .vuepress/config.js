@@ -1,6 +1,6 @@
 module.exports = {
   base: '/vuepress-blog-template/',
-  title: "<TITLE>", // replace with site title
+  title: "BROWAN COMMUNICATIONS INC.", // replace with site title
   description: "<DESCRIPTION>", // replace with site description
   theme: "modern-blog",
   themeConfig: {
